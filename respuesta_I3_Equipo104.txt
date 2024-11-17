@@ -24,4 +24,9 @@ f-¿que debió hacer (todos los comandos) en el punto 7 para poder hacer lo pedi
 
 Responde ALFA:
 G-¿que debió hacer(todos los comandos) en el punto 8 para poder hacer lo pedido?
+	git checkout Frediani
+	nano beta.txt
+	git add .
+	git commit -m "Editar archivo beta.txt con mis datos"
+	git push origin Frediani
 
