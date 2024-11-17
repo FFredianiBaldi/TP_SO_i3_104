@@ -1,0 +1,26 @@
+processor   : 0
+vendor_id   : GenuineIntel
+cpu family  : 6
+model       : 158
+model name  : Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+stepping    : 10
+microcode   : 0xca
+cpu MHz     : 3600.000
+cache size  : 12288 KB
+physical id : 0
+siblings    : 8
+core id     : 0
+cpu cores   : 8
+apicid      : 0
+initial apicid  : 0
+fpu         : yes
+fpu_exception : yes
+cpuid level : 13
+wp          : yes
+flags       : fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 mmx fxsr sse sse2 ss ht tm pbe syscall nx lm constant_tsc arch_perfmon pebs bts rep_good nopl cpuid extd_apicid tsc_known_freq pni ssse3 sse4_1 sse4_2 popcnt aes avx f16c rdrand lahf_lm abm cpuid_fault pti ssbd ibrs ibpb stibp fsgsbase tsc_adjust bmi1 avx2 smep bmi2 erms invpcid rdseed adx smap clflushopt intel_pt xsaveopt xsavec xgetbv1 arat pln pts hwp hwp_notify hwp_act_window hwp_epp
+bugs        : spectre_v1 spectre_v2 meltdown
+bogomips    : 7199.94
+clflush size : 64
+cache_alignment : 64
+address sizes : 39 bits physical, 48 bits virtual
+power management:
