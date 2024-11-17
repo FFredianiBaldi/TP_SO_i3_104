@@ -47,3 +47,39 @@ Adaptador de túnel Teredo Tunneling Pseudo-Interface:
    Puerta de enlace predeterminada . . . . . :
 
 21:36
+
+
+
+
+Karina Ferreyra 
+Configuración IP de Windows
+
+
+Adaptador de LAN inalámbrica Conexión de área local* 1:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Conexión de área local* 2:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+Adaptador de LAN inalámbrica Wi-Fi:
+
+   Sufijo DNS específico para la conexión. . : home
+   Dirección IPv6 . . . . . . . . . . : 2800:810:5d0:524:785d:3df0:8f95:86ef
+   Dirección IPv6 . . . . . . . . . . : 2800:810:5d0:524:8fe8:64:7642:5b3
+   Dirección IPv6 temporal. . . . . . : 2800:810:5d0:524:41f0:73e4:df2a:b89
+   Vínculo: dirección IPv6 local. . . : fe80::c505:55a7:bac1:91ff%8
+   Dirección IPv4. . . . . . . . . . . . . . : 192.168.0.40
+   Máscara de subred . . . . . . . . . . . . : 255.255.255.0
+   Puerta de enlace predeterminada . . . . . : fe80::12d7:b0ff:fe5e:2b53%8
+                                       192.168.0.1
+
+Adaptador de Ethernet Conexión de red Bluetooth:
+
+   Estado de los medios. . . . . . . . . . . : medios desconectados
+   Sufijo DNS específico para la conexión. . :
+
+21:41
